@@ -5,7 +5,7 @@
 
 ## Post API
 
-![Screenshot (43)](https://github.com/ApekshaKumawat/RestWebAPIAssignment/assets/162354263/ecb4b3db-948c-41ef-a214-72a74eb65a3c)
+![Screenshot (51)](https://github.com/ApekshaKumawat/RestWebAPIAssignment/assets/162354263/97ed33ea-4ded-4f42-acd2-21e7eab024a5)
 
 ## GetAll API
 
